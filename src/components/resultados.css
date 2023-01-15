@@ -1,0 +1,8 @@
+.resultados {
+    height: auto;
+    background-color: #48c6f0;
+    padding: 10px;
+    margin: 0 20px;
+    box-shadow: rgb(0 0 0 / 35%) 0px 5px 15px;
+    border-radius: 5px;
+}
